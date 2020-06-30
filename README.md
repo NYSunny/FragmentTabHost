@@ -1,0 +1,3 @@
+# FragmentTabHost
+
+自定义FragmentTabHost，改变了内部Fragment切换时的生命周期

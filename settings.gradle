@@ -1,0 +1,3 @@
+include ':customfragmenttabhostlib'
+include ':app'
+rootProject.name = "FragmentTabHost"
