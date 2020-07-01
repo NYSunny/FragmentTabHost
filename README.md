@@ -19,6 +19,6 @@ allprojects {
 ```
 dependencies {
     // ...
-    implementation 'com.github.NYSunny:FragmentTabHost:v1.0-alpha'
+    implementation 'com.github.NYSunny:FragmentTabHost:1.0.0'
 }
 ```
